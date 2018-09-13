@@ -1,0 +1,26 @@
+{
+  "name": "makemehapi",
+  "version": "1.0.0",
+  "description": "makemehapi exercises",
+  "main": "index.js",
+  "dependencies": {
+    "h2o2": "^8.1.2",
+    "hapi": "^17.5.4",
+    "inert": "^5.1.0",
+    "joi": "^13.6.0",
+    "makemehapi": "^7.0.3",
+    "mustache": "^2.3.2",
+    "path": "^0.12.7",
+    "rot13-transform": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "node"
+  ],
+  "author": "fjgl",
+  "license": "UNLICENSED"
+}
