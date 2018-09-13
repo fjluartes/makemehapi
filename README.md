@@ -8,7 +8,7 @@ Answers to makemehapi hapi.js tutorial
 - proxies - ok
 - helping - ok
 - streams - ok
-- validation - 
+- validation - ok
 - validation joi object - 
 - uploads - 
 - cookies - 
