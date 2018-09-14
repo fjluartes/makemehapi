@@ -10,6 +10,6 @@ Answers to makemehapi hapi.js tutorial
 - streams - ok
 - validation - ok
 - validation joi object - ok
-- uploads - 
+- uploads - ok
 - cookies - 
 - auth - 
