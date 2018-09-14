@@ -11,5 +11,5 @@ Answers to makemehapi hapi.js tutorial
 - validation - ok
 - validation joi object - ok
 - uploads - ok
-- cookies - 
+- cookies - ok
 - auth - 
