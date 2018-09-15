@@ -12,4 +12,4 @@ Answers to makemehapi hapi.js tutorial
 - validation joi object - ok
 - uploads - ok
 - cookies - ok
-- auth - 
+- auth - ok
