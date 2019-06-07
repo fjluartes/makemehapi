@@ -1,5 +1,5 @@
 {
-  "name": "makemehapi",
+  "name": "makemehapi-ans",
   "version": "1.0.0",
   "description": "makemehapi exercises",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "hapi-auth-basic": "^5.0.0",
     "inert": "^5.1.0",
     "joi": "^13.6.0",
-    "makemehapi": "^7.0.3",
+    "makemehapi": "^7.1.0",
     "mustache": "^2.3.2",
     "path": "^0.12.7",
     "rot13-transform": "^1.0.0"
